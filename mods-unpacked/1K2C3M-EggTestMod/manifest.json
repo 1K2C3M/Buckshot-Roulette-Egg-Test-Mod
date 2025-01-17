@@ -1,0 +1,21 @@
+{
+	"name": "EggTestMod",
+	"namespace": "1K2C3M",
+	"version_number": "1.0.0",
+	"description": "This is a test to see if the mod loader is working properly. If it is, the 'START' text on the main menu will now say 'EGG'.",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["1K2C3M"],
+			"tags": [],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["3.1.0"],
+			"compatible_game_version": ["2.1.0.11"],
+			"config_schema": {}
+		}
+	}
+}
